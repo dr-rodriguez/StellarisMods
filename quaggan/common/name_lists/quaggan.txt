@@ -1,0 +1,207 @@
+﻿### Mammalian 2, adapted for Quaggan
+quaggan = {
+	### SHIPS
+
+	ship_names = {
+
+		generic = {
+			Urgion Datarrion Lurrion Nargion Astarion Peragion Selemarion Lysargion Lusmargion Hemberarion Eshnenarion Satharion Sulugarion
+			Antargion Bessemargion Vilargion Ysmargion Ytharion Berekarion Comporgion Cennergion Callustion Hethenion Daforgion Nifargion
+			Cibbanion Evanion Umselanion Usselargion Sukuragion Deterabion Dargion Shanarion Tirindion Kasmalarion Sedrinion Hodronumion
+			Hasarion Pakharion Gatharion Pondoranion Vussagion Diramion Fidraggion Hallamion Bathradurion Janarion Pinatarion Jhunustarion
+			Sacradarion Muntadarion Volmanarion Pedrinamion Oldaragion Kargion Winithion Lakarion Dukrumurion Nastarion Nisorgion Thagarion
+			Kordurion Kadramurion Condarion Cifritharion Rebrinthion Cathradarion Cimbarion Duthrularion Entherabion Redevellion Pentarigion
+			Bantarion Bijinarion Valdanarion Ithisarion Tolarion Chambadarion Faldevarion Nimbadarion Zadarion Beseldur Ganandur Vilkasordur
+			Jamdur Porandur Bakandur Itraldur Varandur Jarmakdur Sandur Kirmandur Tondur Pasdur Livandur Ryndur Hiramdur Ynamdur Camdur
+			Cabandur Jinndur Darasdur Divimdur Avamdur Athirimdur Ascarimdur Ijimdur Wimdur Trandur Evamdur Enildur Ecandur Timdur Packandur
+			Joldur Rangdur Rominadur Pivamdur Maldur Makandur Nakondur Binamdur Kaldur Kondur Uramdur Ubrildur Rebbendur Kramdur Konagdur
+			Etaradur
+		}
+
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+		
+		
+		mining_station = { }
+		research_station = { }
+		wormhole_station = { }
+		#terraform_station = { }
+		observation_station = { }
+		outpost_station = {
+			#random_names = { }
+			#sequential_name = "%O% Frontier Outpost"
+		}
+
+		military_station_small = {}
+		military_station_medium = {}
+		military_station_large = {}	
+	}
+
+	fleet_names = {
+		random_names = {
+			
+		}
+		sequential_name = "%O% Task Force"
+	}
+	
+	army_names = {
+		defense_army = {
+			sequential_name = "%O% Guard Quaggans"
+		}
+			
+		assault_army = {
+			sequential_name = "%O% Raging Quaggans"
+		}
+		
+		slave_army = {
+			sequential_name = "%O% Battle Thralls"
+		}
+		
+		clone_army = { 
+			sequential_name = "%O% Warrior Clones"
+		}
+		
+		robotic_army = {
+			sequential_name = "%O% Battle Droid Legion"
+		}
+
+		robotic_defense_army = {
+			sequential_name = "%O% Defensive Droid Legion"
+		}
+		
+		android_army = {
+			sequential_name = "%O% Silver Legionnaires"
+		}
+
+		android_defense_army = {
+			sequential_name = "%O% Silver Guard"
+		}
+		
+		psionic_army = { 
+			sequential_name = "%O% Psionic Cadre"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "%O% Destroyer Brood"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "%O% Augmented Vanguard"
+		}
+	}
+		
+
+	### PLANETS
+
+	planet_names = {
+
+		generic = {
+			names = {
+				"Gooloopa Deeps" Breekeelee Koofooloo Moogooloo Cooloodoo Moorookoo Morgooroo Oogooth Vonooroovah Brooloonu Soggorsort Droknah Kahloipoi Falooaloo 
+				Koolookuu Lashoosh Moshpoipoi Okarinoo Orsippus Twoloop Urgulp Zuckermaloo 
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+		
+	}
+
+	### CHARACTERS
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+				Aleepeep Anroov Arooshaa Quigsaa Baloop Baroosh Bleedeep Bleepdoop Bloomanoo Bloopdep Blubla Blubloop Bludow Bolroub Bullablop 
+				Bwilula Laamaa Muldrop Odupdop Neootek Childou Clucop Coddler Plipdoolb Spleedoop Baabloo Cooroo Daaboof Deiugoo Doodaar Doolsileep 
+				Doudoop Drenikroovah Duidda Eegyoo Eereesh Simooba Leudap Foipah Fralloo Fuanoo Flipdroop Giplow Gleeshaa Gliggon Gloop Glubblug 
+				Gommtoo Grugrugoo Lugung Noopilap Russhaa Slollilopup Gwoppip Halooha Ishoono Joohan Jubjup Juudow Kerlapp Killeekee Koollan Kreesha 
+				Kukumuru Kuumou Larooo Laulaua Leemoola Leshweeen Loilesh Looah Loonaloo Meeloomopp Mikalooki Miknoo Munloo Muntap Nautila 
+				Neekoolaa Nonwobb Ooogh Ooolpon Ooonuuu Oopdoop Ooshanu Squilp Eshlaa Nooloo Panoowa Oldoo Peneloopee Ploosi Plunckdu Polinque Polliduup 
+				Poobadoo Poukounah Puramatoo Pwindwin Qualdup Queldip Wongoo Romperoo Rosshelpa Rubblubb Rushioo Variloo Shaashagugg Meemee 
+				Sharoona Shashoo Shleroooah Sildroomp Slashink Slishaa Sloolap Slooshoo Slupsloop Soggumaa Soumurrasou Spelugg Suwash 
+				Suzoo Swindau Swooshaa Swuulow Talooboo Thoorne Tootoo Toowal Torblip Aloogwa Saszglop Boudou Doolbroo Flubburt Kassplip Parump 
+				Porook Quareesa Sloshop Telsip Wandill Warthlop Willoo Woomulla Woplup Wuaruakoo Zoofioo
+			}
+			
+			# Always combined with a second name
+			first_names = {
+				
+			}
+			
+			# Always combined with a first name
+			second_names = {
+				
+			}
+			
+			regnal_first_names = {
+				
+			}
+			
+			regnal_second_names = {
+				
+			}
+		}
+	}
+}

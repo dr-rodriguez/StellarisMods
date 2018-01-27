@@ -1,0 +1,247 @@
+﻿### Dune Names
+dune = {	
+
+	ship_names = {
+		generic = {
+			Mystic Naiad Nautilus Nebula Nimble "North Star" Nymph Obdurate Ocean Onward Oracle Paradox Paragon Pearl Peregrine Perseverance Marksman Rifleman 
+			Sniper Trident Trojan Trumpet Truncheon Typhoon Undaunted Venture Versatile Vigorous Viper Vivacious Winger Wizard Wyvern Wolfhound Devastator Warhammer 
+			Retribution Senator Tornado Infinity Usurper Utmost Valorous Whirlwind Athena Artemis Vigilance Decimator Indomitable Goliath Sentinel Brilliant Blazer 
+			Audacity Gallant Nova Shadow Allegiance Challenger Fearless Protector Guardian Victorious Courageous Defiance Valorous Azrael
+		}
+	
+		corvette = {
+			Agile Archer Arrow Bruiser Cherub Chimera Claymore Broadsword Battleaxe Crossbow Cutlass Deterrent Errant Faithful Fierce Gladius Longbow 
+			Grappler Hammer Vampire Velox Venator Vendetta Venerable Venomous Taciturn Supreme Success Shredder Seraph Serpent Spitfire Stalker Stratagem
+			Scimitar Scorcher Scourge Scythe Revenant Redoubtable Raptor Reaver Prodigal Rapier Prudent Persistent Peerless Myrmidon Indignant Javelin Knight
+			Starwolf Bonaventure Adventure Boxer Buccaneer Cavalier Celestial Chariot Comet Crucible Cyclone Decisive Dexterous Diadem Earnest Eclipse Forger Fortune 
+			Gauntlet Griffin Horizon Hotspur Hurricane Hussar Jubilant Lancer Lightning Magic Mediator Mermaid Meteor Minstrel Miranda Mustang Sharpshooter
+		}
+		
+		destroyer = {
+			Cyclops Centaur Adversary Assassin Dagger Daring Duty Havoc Hero Hunter Justice Impeccable Interceptor Infernal Loyal Matchless Mauler Mayhem Malice
+			Menace Merciless Mischief Monarch Patriot Predator Powerful Punisher Ravager Reaper Savage Spiteful Templar Terminator Terror Thrasher Minotaur
+			Manticore Interdictor Intruder Hydra Enfield Harasser Unbeaten Werewolf Zealous Petulant Phantom Phoenix Pike Pursuer Raider Rainbow Rapid Redemption 
+			Relentless Rigorous Robust Sabre Salvation Sanguine Scarab Scepter "Sea Witch" Siren Sorceress Spearhead Specter Spirit Splendid Stallion Stalwart 
+			Steadfast Strenuous Superb Supernova Surprise Swiftsure Talent Talisman Talon Taurus Tenacious "Thunder Child" Thunderous Tireless Trenchant Righteous
+		}
+		
+		cruiser = {
+			Acheron Achilles Agamemnon Amphion Aquilon Argonaut Argus Ariel Aurora Avernus Bacchus Bucephalus Calliope Calypso Castor Charybdis Circe
+			Cleopatra Constantine Cordelia Cyrus Damocles Daedalus Darius Diomede Dryad Electra Endymion Erebus Fenris Freya Gilgamesh Gorgon Halcyon Hecate
+			Hector Hesperus Janus Jason Juno Jupiter Lancelot Lazarus Leander Leonidas Lysander Maenad Mars Medea Medusa Menestheus Mercury Merlin Minerva
+			Minos Neptune Nessus Nestor Nimrod Niobe Oberon Odin Ophelia Orestes Orpheus Osiris Pandora Penelope Persephone Perseus Phoebe Pluto Poseidon
+			Proteus Pylades Serapis Stygian Tantalus Telemachus Theseus Thor Trajan Triton Venus Adamant Ardent Assail Austere Archon Adroit Aegis Anchor 
+			Corsair Banshee Enchantress Eradicator Tormentor Legion Reprisal Aggressor Assault Eviscerator Imperator Excellence Unrivalled Warlord 
+		}
+		
+		battleship = {
+			Vengeance Triumphant Nemesis Avenger Champion Conqueror Crusader Glory Immortal Judicator Vanguard Renown Demolisher Dragon Executor Furious Gladiator
+			Magnificent Ogre Onslaught Revenge Vanquisher Vehement Basilisk Tempest Overlord Warrior Titan Colossus Prometheus Nike Paladin Sovereign Repulse
+			Majestic Avatar Behemoth Centurion Citadel Dreadnought Harbinger Juggernaut Leviathan Katana Kraken Cerberus Valkyrie Hyperion Galatea Ambush Vindicator
+		}
+		
+		science = {
+			Crescent Diligent Zephyr Enigma Conquistador Scylla Arbiter Asperity Eminence Astute Alacrity Satyr Prospero Untiring Zenith Torch Remembrance Pilgrim
+			Trailblazer Vagabond Wayfarer Ambassador Emissary Nomad Pathfinder Wanderer Traveler
+		}
+		
+		colonizer = {
+			Godspeed Prophecy "Manifest Destiny" Virtue Potential Expansion "Pioneer Spirit" Prosperity Summit Pinnacle Seeder Harvest Demeter Isis Ceres Exodus
+			Foundation Scion Progeny Obligation Purpose Provider "Shining City" Acquirer Cultivator "Dawn of Civilization" Purity Community Brotherhood
+		}
+		
+		constructor = {
+			Industry Assiduity Effort Laborer Builder Craftsman "Hard Hat" Progress Engineer Promise Service Shelter Beast Creator Developer Forger Foundry 
+			Factory Anvil Pillar Architect Accommodator Ptah Ilmarinen Creidhne Gobannus Luchtaine Goibniu Vishvakarman Tvastar Ikenga Qaynan Ucuetis Ogoun
+		}
+		
+		orbital_station = { }
+		mining_station = { }
+		research_station = { }
+		wormhole_station = { }
+		#terraform_station = { }
+		observation_station = { }
+		outpost_station = {
+			random_names = {
+				"Far Reach" Watchtower Sphered Influential Assertion "Watchful Eye" Sentinel Demarcator "Frontier Finalizer" "Ever Watchful" Divider Bastion "Home Turf" Wide
+			}
+			sequential_name = "%O% Frontier Outpost"
+		}
+		
+		transport = {
+			Falx Katzbalger Cinquedea Estoc Foil Flamberge Poignard Sword
+		}
+		military_station_small = { Dignity Distinction Excellence Faithful Discipline Recompense Retribution Requiem Courage Valor Gallant }
+	
+		military_station_medium = { Daring Constancy Perseverence Tenacity Sedulity Diligence Pertinacity Steadfast }
+	
+		military_station_large = {
+			Victory Success Triumph Supremacy Superior Adventure Ascendancy Paramount Preponderous Exemplary Eximious
+			Acclaim Honor Renown Glory Superb Magnificence Majestic Splendor Paradigm Flawless Consummate Merit
+			Perfection Virtue Advantage Rectitude Incorruptible Integrity Justice Probity Prudence Purity Resolute
+		}
+	}
+
+	fleet_names = {
+		random_names = {
+			"Strike Force Manticore" "Strike Force Basilisk" "Strike Force Chimera" "Strike Force Minotaur" "Strike Force Gorgon" "Strike Force Dragon"
+			"Strike Force Wyvern" "Strike Force Enfield" "Strike Force Centaur" "Strike Force Pegasus" "Strike Force Kraken" "Strike Force Charybdis"
+			"Strike Force Cerberus" "Strike Force Cyclops" "Strike Force Griffin" "Strike Force Phoenix" "Strike Force Scylla" "Strike Force Titan"
+			"Strike Force Hydra" "Strike Force Werewolf" "Strike Force Behemoth" "Strike Force Medusa" "Strike Force Sphinx" "Strike Force Hippogriff"
+			"Strike Force Garuda"
+		}
+		sequential_name = "%O% Strike Force"
+	}
+
+	
+	###ARMIES
+	army_names = {
+		generic = { 
+			sequential_name = "%O% Sardaukar Garrison"
+		}
+
+		assault_army = {
+			sequential_name = "%O% Fedaykin Commandos"
+		}
+		
+		slave_army = {
+			sequential_name = "%O% Slave Corps"
+		}
+		
+		clone_army = {
+			sequential_name = "%O% Axlotl Soldiery"
+		}
+		
+		robotic_army = {
+			sequential_name = "%O% Unthinking Machines"			
+		}
+
+		robotic_defense_army = {
+			sequential_name = "%O% Unmanned Garrison"
+		}
+		
+		android_army = {
+			sequential_name = "%O% Thinking Machines"
+		}
+
+		android_defense_army = {
+			sequential_name = "%O% Android Garrison"
+		}
+		
+		psionic_army = {
+			sequential_name = "%O% Weirding Warriors"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "%O% Face Dancers"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "%O% Tleilaxu Masters"
+		}
+	}
+	
+	### PLANETS
+	
+	planet_names = {
+	
+		generic = {
+			names = {
+				"Delta Kaising" Anbus Dhanab "Bela Tegeuse" Chusuk Gamont Gansireed Gangishree Ginaz Grumman Hagal Harmonthep Ipyr Ix Junction Kolhar 
+				Lampadas Lankiveil Lernaeus Muritan Naraj Palma Parmentier Poritrin Richese Romo Rossak Sikun Synchrony Tleilax Tupile Wallach Zanovar
+			}
+		}
+		
+		pc_desert = {
+			names = {
+				Arrakis Chapterhouse Rakis Dune
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+				Ecaz
+			}
+		}
+		
+		pc_arid = {
+			names = {
+				"Salusa Secundus" "Giedi Prime"
+			}
+		}
+		
+		pc_continental = {
+			names = {
+				Kaitan Corrin
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+				Caladan Dan
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+				Buzzell
+			}
+		}
+		
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+		
+	}
+	
+	### CHARACTERS
+	
+	character_names = {
+		names1 = {
+			weight = 100
+            first_names_male = {
+				Vorian Estes Kagin Miklos Kean Paulus Leto Victor Paul Moneo Thufir Gurney Duncan Wellington Mattai Ikonicre Xavier Abulurd 
+				Dmitr Vladimir Piter Abulurd Feyd-Rautha Glossu Kryubi Kalo Iakin Umman Faykan Elrood Shaddam Farad'n Pardot Hasimir Zum 
+				Torynn Cando Aramsham Hundro Lupino Hiih Trin Hidar Bijaz Scytale Tylwyth Zaaf Burah Uxtal Zoal Khrone Duro Wose Ledden Ilban 
+				Ein Haloa Talis Tenu Dominic Rhombur Cammar C'tair D'murr Malky Kobat Tyros Aurelius Adrien Friedre Zon Jool Istian Nar Jammo 
+				Mord Rivvy Whitmore Manion Quentin Faykan Abulurd Rikov
+			}          
+            first_names_female = {
+				Helena Jessica Alia Ghanima Siona Anirul Irulan Wensicia "Gaius Helen" "Alma Mavis" Claire Violet Margot Darwi Eileen Bellonda 
+				Tamalane Harishka Schwangyu Sheeana Miles Wanna "Tertius Eileen" "Quintinius Violet" "Marcus Claire" Syaksa Edwina Shando Kailea 
+				Hwi Tessia Norma Shadout Zufa Ticia Livia Serena Octa Wandra Rayna
+			}
+			second_names = {
+				Atreides Richese-Atreides Yueh Richese Idaho Halleck Hawat "De Vries" Harkonnen Rabban Whylls Nefud Kudu Corrino Kynes 
+				Fenring Garon Moritani Ord Resser Kronos Mohiam Taraza Odrade Teg Anteac Chenoeh Luyseyal "Fen Ajidica" Waff Nunepi Pook Calimar 
+				Rund Balt Chobyn Ix Vernius Balut-Vernius Pilru Noree Reffa Taligari Cenva Venport Pilru Mapes Ginaz Noret Goss Trig Reed Cour Dinari Bludd Butler
+			}
+            regnal_first_names_male = {
+				Vorian Estes Kagin Miklos Kean Paulus Leto Victor Paul Moneo Thufir Gurney Duncan Wellington Mattai Ikonicre Xavier Abulurd 
+				Dmitr Vladimir Piter Abulurd Feyd-Rautha Glossu Kryubi Kalo Iakin Umman Faykan Elrood Shaddam Pardot Hasimir Zum Torynn 
+				Cando Aramsham Hundro Lupino Hiih Trin Hidar Bijaz Scytale Tylwyth Zaaf Burah Uxtal Zoal Khrone Duro Wose Ledden Ilban Ein Haloa 
+				Talis Tenu Dominic Rhombur Cammar Malky Kobat Tyros Aurelius Adrien Friedre Zon Jool Istian Nar Jammo Mord Rivvy Whitmore Manion 
+				Quentin Faykan Abulurd Rikov
+			}
+            regnal_first_names_female = {
+				Helena Jessica Alia Ghanima Siona Anirul Irulan Wensicia "Gaius Helen" "Alma Mavis" Claire Violet Margot Darwi Eileen Bellonda 
+				Tamalane Harishka Schwangyu Sheeana Miles Wanna "Tertius Eileen" "Quintinius Violet" "Marcus Claire" Syaksa Edwina Shando Kailea 
+				Hwi Tessia Norma Shadout Zufa Ticia Livia Serena Octa Wandra Rayna
+			}
+			regnal_second_names = {
+				Corrino Atreides Harkonnen Vernius Butler Richese Fenring
+			}
+		}
+	}
+}

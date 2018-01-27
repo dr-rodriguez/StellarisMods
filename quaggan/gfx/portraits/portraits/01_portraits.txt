@@ -1,0 +1,86 @@
+portraits = {
+	# Quaggan
+	quaggan_blue = {greeting_sound = "cute_fungoid_greetings" texturefile = "gfx/models/portraits/quaggan_blue.dds"  }
+	quaggan_black = {greeting_sound = "cute_fungoid_greetings" texturefile = "gfx/models/portraits/quaggan_black.dds"  }
+	quaggan_pink = {greeting_sound = "cute_fungoid_greetings" texturefile = "gfx/models/portraits/quaggan_pink.dds"  }
+	quaggan1 = {greeting_sound = "cute_fungoid_greetings" texturefile = "gfx/models/portraits/quaggan1.dds"  }
+	quaggan2 = {greeting_sound = "cute_fungoid_greetings" texturefile = "gfx/models/portraits/quaggan2.dds"  }
+	quaggan3 = {greeting_sound = "cute_fungoid_greetings" texturefile = "gfx/models/portraits/quaggan3.dds"  }
+	quaggan4 = {greeting_sound = "cute_fungoid_greetings" texturefile = "gfx/models/portraits/quaggan4.dds"  }
+}
+
+portrait_groups = {
+
+"quaggan" = {
+        default = quaggan_blue         
+        game_setup = {
+                add = {
+				portraits = {
+					quaggan_blue
+                    quaggan_black
+                    quaggan_pink
+                    quaggan1
+                    quaggan2
+                    quaggan3
+                    quaggan4
+				}
+            }
+        }
+        #species scope
+		species = { #generic portrait for a species
+			add = {
+				portraits = {
+					quaggan_blue
+                    quaggan_black
+                    quaggan_pink
+                    quaggan1
+                    quaggan2
+                    quaggan3
+                    quaggan4
+				}
+            }
+        }
+        #pop scope
+		pop = { #for a specific pop
+			add = {
+				portraits = {
+					quaggan_blue
+                    quaggan_black
+                    quaggan_pink
+                    quaggan1
+                    quaggan2
+                    quaggan3
+                    quaggan4
+				}
+            }
+        }
+        #leader scope
+		leader = { #scientists, generals, admirals, governor
+			add = {
+				portraits = {
+					quaggan_blue
+                    quaggan_black
+                    quaggan_pink
+                    quaggan1
+                    quaggan2
+                    quaggan3
+                    quaggan4
+				}
+            }
+        }
+        #leader scope 
+		ruler = {
+			add = {
+				portraits = {
+					quaggan_blue
+                    quaggan_black
+                    quaggan_pink
+                    quaggan1
+                    quaggan2
+                    quaggan3
+                    quaggan4
+				}
+            }
+        }
+    }
+}
