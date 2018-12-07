@@ -6,4 +6,4 @@ tags={
 }
 picture="dune_names.jpg"
 remote_file_id="899814182"
-supported_version="2.1.*"
+supported_version="2.2.*"
