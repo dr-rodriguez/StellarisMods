@@ -5,5 +5,4 @@ tags={
 }
 picture="quaggan_blue.jpg"
 supported_version="3.2.*"
-path="C:/Users/strak/Documents/Paradox Interactive/Stellaris/mod/quaggan"
 remote_file_id="1283538287"
