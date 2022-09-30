@@ -59,52 +59,52 @@ quaggan = {
 		random_names = {
 			
 		}
-		sequential_name = "%O% Task Force"
+		sequential_name = QUAG_xxTASKFORCE_ORD
 	}
 	
 	army_names = {
 		defense_army = {
-			sequential_name = "%O% Guard Quaggans"
+			sequential_name = QUAG_xxGUARD_ORD
 		}
 			
 		assault_army = {
-			sequential_name = "%O% Raging Quaggans"
+			sequential_name = QUAG_xxRAGING_ORD
 		}
 		
 		slave_army = {
-			sequential_name = "%O% Battle Thralls"
+			sequential_name = QUAG_xxTHRALL_ORD
 		}
 		
 		clone_army = { 
-			sequential_name = "%O% Warrior Clones"
+			sequential_name = QUAG_xxCLONE_ORD
 		}
 		
 		robotic_army = {
-			sequential_name = "%O% Battle Droid Legion"
+			sequential_name = QUAG_xxBATTLEDROID_ORD
 		}
 
 		robotic_defense_army = {
-			sequential_name = "%O% Defensive Droid Legion"
+			sequential_name = QUAG_xxDEFENSEDROID_ORD
 		}
 		
 		android_army = {
-			sequential_name = "%O% Silver Legionnaires"
+			sequential_name = QUAG_xxLEGION_ORD
 		}
 
 		android_defense_army = {
-			sequential_name = "%O% Silver Guard"
+			sequential_name = QUAG_xxSGUARD_ORD
 		}
 		
 		psionic_army = { 
-			sequential_name = "%O% Psionic Cadre"
+			sequential_name = QUAG_xxCADRE_ORD
 		}
 		
 		xenomorph_army = {
-			sequential_name = "%O% Destroyer Brood"
+			sequential_name = QUAG_xxBROOD_ORD
 		}
 		
 		gene_warrior_army = {
-			sequential_name = "%O% Augmented Vanguard"
+			sequential_name = QUAG_xxVANGUARD_ORD
 		}
 	}
 		

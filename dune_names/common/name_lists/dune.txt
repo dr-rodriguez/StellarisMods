@@ -90,54 +90,54 @@ dune = {
 			"Strike Force Hydra" "Strike Force Werewolf" "Strike Force Behemoth" "Strike Force Medusa" "Strike Force Sphinx" "Strike Force Hippogriff"
 			"Strike Force Garuda"
 		}
-		sequential_name = "%O% Strike Force"
+		sequential_name = DUNE_xxTASKFORCE_ORD
 	}
 
 	
 	###ARMIES
 	army_names = {
 		generic = { 
-			sequential_name = "%O% Sardaukar Garrison"
+			sequential_name = DUNE_xxGUARD_ORD
 		}
 
 		assault_army = {
-			sequential_name = "%O% Fedaykin Commandos"
+			sequential_name = DUNE_xxRAGING_ORD
 		}
 		
 		slave_army = {
-			sequential_name = "%O% Slave Corps"
+			sequential_name = DUNE_xxTHRALL_ORD
 		}
 		
 		clone_army = {
-			sequential_name = "%O% Axlotl Soldiery"
+			sequential_name = DUNE_xxCLONE_ORD
 		}
 		
 		robotic_army = {
-			sequential_name = "%O% Unthinking Machines"			
+			sequential_name = DUNE_xxBATTLEDROID_ORD
 		}
 
 		robotic_defense_army = {
-			sequential_name = "%O% Unmanned Garrison"
+			sequential_name = DUNE_xxDEFENSEDROID_ORD
 		}
 		
 		android_army = {
-			sequential_name = "%O% Thinking Machines"
+			sequential_name = DUNE_xxLEGION_ORD
 		}
 
 		android_defense_army = {
-			sequential_name = "%O% Android Garrison"
+			sequential_name = DUNE_xxSGUARD_ORD
 		}
 		
 		psionic_army = {
-			sequential_name = "%O% Weirding Warriors"
+			sequential_name = DUNE_xxCADRE_ORD
 		}
 		
 		xenomorph_army = {
-			sequential_name = "%O% Face Dancers"
+			sequential_name = DUNE_xxBROOD_ORD
 		}
 		
 		gene_warrior_army = {
-			sequential_name = "%O% Tleilaxu Masters"
+			sequential_name = DUNE_xxVANGUARD_ORD
 		}
 	}
 	
