@@ -11,7 +11,7 @@ portraits = {
 
 portrait_groups = {
 
-"quaggan" = {
+quaggan = {
         default = quaggan_blue         
         game_setup = {
                 add = {
