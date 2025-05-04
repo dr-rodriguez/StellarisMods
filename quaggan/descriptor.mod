@@ -4,5 +4,5 @@ tags={
 	"Namelists"
 }
 picture="quaggan_blue.jpg"
-supported_version="3.12.*"
+supported_version="v3.14.*"
 remote_file_id="1283538287"
